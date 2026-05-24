@@ -38,7 +38,7 @@ REGULATION CHARACTERISTICS:
 
 V-I & REGULATION CHARACTERISTICS:
 <img width="1289" height="536" alt="image" src="https://github.com/user-attachments/assets/7adf7acb-d313-40a0-8ec4-046650a2b649" />
-![Uploading image.png…]()
+<img width="1410" height="601" alt="image" src="https://github.com/user-attachments/assets/c054c3f4-75df-49c3-aaaf-81aa36640048" />
 
 PRECAUTIONS:
 
